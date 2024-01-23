@@ -8,6 +8,9 @@ The Sales Performance Dashboard project aims to create a comprehensive and user-
 - Provide graphical representations of sales trends, regional performance, product analysis, and other relevant metrics.
 - Forecast of product sales trend.
 
+# Tool used
+Tableau
+
 ![image](https://github.com/Ariyo1105/Sales-performance-Dashboard/assets/146656101/cc366a57-ddfe-4168-8441-753bebecc80f)
 
 ![image](https://github.com/Ariyo1105/Sales-performance-Dashboard/assets/146656101/bcb65c9c-0180-4436-99a9-7d01612c6a4b)
